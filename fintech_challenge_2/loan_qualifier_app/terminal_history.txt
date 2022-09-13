@@ -1,0 +1,126 @@
+  500  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  501  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  502  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  503  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  504  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  505  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  506  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  507  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  508  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  509  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  510  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  511  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  512  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  513  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  514  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  515  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  516  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  517  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  518  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  519  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  520  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  521  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  522  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  523  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  524  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  525  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  526  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  527  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py
+  528  conda activate dev
+  529   /usr/bin/env /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/.vscode/extensions/ms-python.python-2022.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53802 -- /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py 
+  530   cd /Users/gilbertosanchez/Downloads/Starter_Code-3 ; /usr/bin/env /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/.vscode/extensions/ms-python.python-2022.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53836 -- /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py 
+  531   cd /Users/gilbertosanchez/Downloads/Starter_Code-3 ; /usr/bin/env /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/.vscode/extensions/ms-python.python-2022.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54017 -- /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py 
+  532   cd /Users/gilbertosanchez/Downloads/Starter_Code-3 ; /usr/bin/env /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/.vscode/extensions/ms-python.python-2022.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54193 -- /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py 
+  533   cd /Users/gilbertosanchez/Downloads/Starter_Code-3 ; /usr/bin/env /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/.vscode/extensions/ms-python.python-2022.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54204 -- /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py 
+  534   cd /Users/gilbertosanchez/Downloads/Starter_Code-3 ; /usr/bin/env /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/.vscode/extensions/ms-python.python-2022.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54302 -- /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py 
+  535   cd /Users/gilbertosanchez/Downloads/Starter_Code-3 ; /usr/bin/env /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/.vscode/extensions/ms-python.python-2022.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56877 -- /Users/gilbertosanchez/Downloads/Starter_Code-3/loan_qualifier_app/app.py 
+  536  conda activate dev
+  537  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  538  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  539  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  540  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  541  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  542  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  543  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  544  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  545  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  546  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  547  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  548  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  549  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  550  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  551  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  552  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  553  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  554  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  555  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  556  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  557  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  558  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  559  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  560  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  561  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  562  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  563  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  564  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  565  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  566  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  567  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  568  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  569  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  570  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  571  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  572  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  573  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  574  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  575  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  576  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  577  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  578  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  579  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  580  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  581  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  582  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  583  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  584  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  585  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  586  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  587  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  588  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  589  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  590  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  591  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  592  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  593  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  594  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  595  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  596  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  597  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  598  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  599  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  600  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  601  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  602  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  603  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  604  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  605  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  606  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  607  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  608  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  609  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  610  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  611  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  612  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  613  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  614  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  615  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  616  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  617  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  618  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  619  /Users/gilbertosanchez/opt/anaconda3/envs/dev/bin/python /Users/gilbertosanchez/Downloads/Starter_Code-4/loan_qualifier_app/app.py
+  620  history 50 > terminal_history.txt
+  621  history 50 > terminal_history.txt
+  622  history 50
+  623  history 10 > terminal_history.txt
+  624  HISTSIZE = 50
+  625  history 500 > terminal_history.txt
